@@ -1,0 +1,30 @@
+td {
+
+	border: 1px solid;
+	padding: 10px;
+	background-color: rgb(211, 211, 254);
+}
+
+th {
+	border: 1px solid;
+	border-color: rgba(rgb(199, 35, 35));
+
+}
+
+table {
+	border: 1px solid;
+	background-color: rgb(rgb(121, 197, 121));
+
+}
+
+tbody {
+	border: 1px solid;
+	
+
+}
+
+butoon editar {
+	border: 1px solid;
+	padding: 20px;
+	border-color: rgb(red);
+}
